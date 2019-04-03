@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SteckbriefTool</name>
+    </assembly>
+    <members>
+        <member name="M:SteckbriefTool.SteckbriefKlassen.Steckbrief.#ctor(System.String,System.Int32,System.String)">
+            <summary>
+            test
+            </summary>
+            <param name="name"></param>
+            <param name="alter"></param>
+            <param name="stadt"></param>
+        </member>
+    </members>
+</doc>

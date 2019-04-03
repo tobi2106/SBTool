@@ -1,0 +1,11 @@
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\bin\Debug\SteckbriefTool.exe.config
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\bin\Debug\SteckbriefTool.exe
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\bin\Debug\SteckbriefTool.pdb
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\obj\Debug\SteckbriefTool.csprojAssemblyReference.cache
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\obj\Debug\SteckbriefTool.csproj.CoreCompileInputs.cache
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\obj\Debug\SteckbriefTool.exe
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\obj\Debug\SteckbriefTool.pdb
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\Build\SteckbriefTool.exe.config
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\Build\XMLDoc.xml
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\Build\SteckbriefTool.exe
+C:\Users\Tobby\Desktop\C# Projekte\SteckbriefTool\SteckbriefTool\Build\SteckbriefTool.pdb
